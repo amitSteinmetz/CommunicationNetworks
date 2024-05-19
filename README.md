@@ -1,2 +1,2 @@
-# CommunicationNetworks
-All tasks from my Communication Networks course at Ariel university
+# Communication Networks - Final project
+Final project in my Communication Networks course at Ariel university
